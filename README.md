@@ -1,5 +1,10 @@
 # my-app
 
+## node--version
+```
+v16.16.0
+```
+
 ## Project setup
 ```
 npm install
